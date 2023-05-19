@@ -57,4 +57,5 @@ Visit my [portfolio website](https://adarshjena.in) to see my work and projects.
 
 <!-- Add a footer with relevant badges or acknowledgments -->
 <!-- For example: -->
-![Your Badge](https://img.shields.io/badge/-Badge%20Name-BadgeColor)
+<!-- ![Your Badge](https://img.shields.io/badge/-Badge%20Name-BadgeColor)
+ -->
