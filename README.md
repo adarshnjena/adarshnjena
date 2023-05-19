@@ -9,14 +9,12 @@
 </p>
 
 I'm a passionate Programmer with a keen interest in Web Technologies. I love building Real World projects and exploring new tools and technologies. Constantly learning and growing in the world of software development is what excites me the most.
-<p>
-  Download Resume -->
-</p>
+
 <a href="https://adarshjena.in/pdf/Profile.pdf" target="_blank" download>
-  <button><img src="download_button.png" width="100" alt="download_button">
+  <button><img src="download_resume.gif" width="150" alt="download_button">
 </button>
 </a>
-
+<p></p>
 
 ![Banner](banner.png)
 
