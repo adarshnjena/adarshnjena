@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Adarsh Jena!</h1>
 <p align="center">
-  <a href="[Your Website or Portfolio URL]">Website</a> •
+  <a href="https://adarshjena.in">Website</a> •
   <a href="[Your LinkedIn URL]">LinkedIn</a> •
   <a href="[Your Twitter URL]">Twitter</a>
 </p>
