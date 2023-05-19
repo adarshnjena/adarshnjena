@@ -28,7 +28,7 @@ I'm a passionate Programmer with a keen interest in Web Technologies. I love bui
 
 <!-- Mention the technologies or concepts you're currently learning -->
 - Building Progressive Web App
-- 
+- WebAssembly
 
 ## 📫 How to Reach Me
 
