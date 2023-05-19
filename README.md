@@ -44,5 +44,5 @@ I'm a passionate [your profession] with a keen interest in [your interests]. I l
 
 <!-- Add a footer with credits or acknowledgments if needed -->
 <footer align="center">
-  Inspired by [GitHub Profile README](https://github.com/your-username)
+  Inspired by [GitHub Profile README](https://github.com/adarshnjena)
 </footer>
