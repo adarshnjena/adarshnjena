@@ -39,8 +39,8 @@ I'm a passionate [your profession] with a keen interest in [your interests]. I l
 - 📧 [Email Address]
 
 <!-- Add badges for your GitHub stats, top programming languages, etc. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshnjena&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnjena&layout=compact&theme=dark)
 
 <!-- Add a footer with credits or acknowledgments if needed -->
 <footer align="center">
