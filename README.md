@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="/style.css">
+
+
 <h1 align="center">👋 Hello, I'm Adarsh Jena!</h1>
 <p align="center">
   <a href="https://adarshjena.in">Website</a> •
@@ -6,6 +9,11 @@
 </p>
 
 I'm a passionate Programmer with a keen interest in Web Technologies. I love building Real World projects and exploring new tools and technologies. Constantly learning and growing in the world of software development is what excites me the most.
+
+<a href="path_to_download_file" download>
+  <button class="download-button">Download Resume</button>
+</a>
+
 
 ![Banner](banner.png)
 
